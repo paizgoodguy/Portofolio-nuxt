@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="page bg-lime-300" @click="GoToNext">
+    <div class="page" @click="GoToNext">
       <div class="screen-center flex items-center justify-center">
         <p class="text-5xl mx-auto pb-4">
           <span class="text-6xl font-bold">M</span>y other <br> skill

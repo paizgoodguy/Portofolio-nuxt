@@ -7,7 +7,7 @@
         </div>
         <div class="flex items-center justify-center mt-6 ">
           <div class="container m-auto p-4 relative entering">
-            <div class="flex flex-row space-x-4 bg-white p-5">
+            <div class="flex flex-row space-x-4 p-5">
               <!-- First Col -->
               <div class="flex w-full flex-col space-y-8">
                 <div

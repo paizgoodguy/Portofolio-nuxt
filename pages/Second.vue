@@ -1,5 +1,5 @@
 <template>
-  <div class="page bg-lime-300" @click="GoToNext">
+  <div class="page " @click="GoToNext">
     <div class="screen-center">
       <div>
         <div class="heading">
